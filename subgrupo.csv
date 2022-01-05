@@ -1,0 +1,75 @@
+,id,id_grupo,subgrupo_atendimento
+0,0,,
+1,101,1.0,Anemia Falciforme
+2,102,1.0,Câncer
+3,103,1.0,Diabetes Mellitus
+4,104,1.0,Doença Pulmonar Obstrutiva Crônica
+5,105,1.0,Doença Renal
+6,106,1.0,Doenças Cardiovasculares e Cerebrovasculares
+7,107,1.0,Hipertensão de difícil controle ou com complicações/lesão de órgão alvo
+8,108,1.0,Indivíduos Transplantados de Órgão Sólido
+9,109,1.0,Obesidade Grave (Imc>=40)
+10,110,1.0,Síndrome de Down
+11,201,2.0,Pessoas de 60 a 64 anos
+12,202,2.0,Pessoas de 65 a 69 anos
+13,203,2.0,Pessoas de 70 a 74 anos
+14,204,2.0,Pessoas de 75 a 79 anos
+15,205,2.0,Pessoas de 80 anos ou mais
+16,301,3.0,Pessoas de 60 nos ou mais Institucionalizadas
+17,401,4.0,Marinha do Brasil - MB
+18,402,4.0,Exército Brasileiro - EB
+19,403,4.0,Força Aérea Brasileira - FAB
+20,501,5.0,Bombeiro Civil
+21,502,5.0,Bombeiro Militar
+22,503,5.0,Guarda Municipal
+23,504,5.0,Policial Rodoviário Federal
+24,505,5.0,Policial Civil
+25,506,5.0,Policial Federal
+26,507,5.0,Policial Militar
+27,601,6.0,Quilombola
+28,602,6.0,Ribeirinha
+29,701,7.0,Povos indígenas em terras indígenas
+30,801,8.0,Ensino Básico
+31,802,8.0,Ensino Superior
+32,901,9.0,Auxiliar de Veterinário
+33,902,9.0,Biólogo
+34,903,9.0,Biomédico
+35,904,9.0,Cozinheiro e Auxiliares
+36,905,9.0,Cuidador de Idosos
+37,906,9.0,Doula/Parteira
+38,907,9.0,Enfermeiro(a)
+39,908,9.0,Farmacêutico
+40,909,9.0,Fisioterapeutas
+41,910,9.0,Fonoaudiólogo
+42,911,9.0,Funcionário do Sistema Funerário c/ cadáveres potencialmente contaminados
+43,912,9.0,Médico
+44,913,9.0,Médico Veterinário
+45,914,9.0,Motorista de Ambulância
+46,915,9.0,Nutricionista
+47,916,9.0,Odontologista
+48,917,9.0,Pessoal da Limpeza
+49,918,9.0,Profissionais de Educação Física
+50,919,9.0,Psicólogo
+51,920,9.0,Recepcionista
+52,921,9.0,Segurança
+53,922,9.0,Assistente Social
+54,923,9.0,Técnico de Enfermagem
+55,924,9.0,Técnico de Veterinário
+56,925,9.0,Terapeuta Ocupacional
+57,926,9.0,Outros
+58,927,9.0,Auxiliar de Enfermagem
+59,928,9.0,Técnico de Odontologia
+60,929,9.0,Estudante
+61,1001,,
+62,1002,,
+63,1003,,
+64,1004,,
+65,1006,,
+66,1101,11.0,Pessoas com Deficiência Institucionalizadas
+67,1102,11.0,Pessoas com Deficiências Permanente Grave
+68,1201,12.0,Pessoas em Situação de Rua
+69,1301,13.0,Trabalhadores Portuários
+70,1401,14.0,Funcionário do Sistema de Privação de Liberdade
+71,1501,15.0,População Privada de Liberdade
+72,1601,16.0,Trabalhadores Industriais
+73,1005,,
